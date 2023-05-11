@@ -2,22 +2,22 @@
 
 #5W2H
 
- - O quê é o GitHub?
+ - O quê é o GitHub? github e uma plataforma de desinvolvimento de codigo que facilita o interação de pessoas para um mesmo projeto.
 
 
- - Por que usar o GitHub?
+ - Por que usar o GitHub? porque ele facilita o trabalho em grupo
 
 
- - Quem deve conhecer e usar o GitHub?
+ - Quem deve conhecer e usar o GitHub? todos,mas especialmente quem e programador
 
 
- - Onde posso usar/acessar o GitHub?
+ - Onde posso usar/acessar o GitHub? no navegador
 
 
- - Quando devo usar o GitHub?
+ - Quando devo usar o GitHub? quando você for fazer algum trabalho
 
 
- - Como posso usar o GitHub?
+ - Como posso usar o GitHub? de forma que você achar melhor
 
 
- - Quanto custa para usar o GitHub?
+ - Quanto custa para usar o GitHub? e de graça, mas se preferir tem as versoes pagas e mais completas
